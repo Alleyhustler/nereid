@@ -87,7 +87,7 @@
           , c = r(7396);
         let d = () => (0,
         s.jsx)(n.default, {
-            href: "/docs",
+            href: "https://pump.fun/profile/4HGC7MRthiBfDLi7PeqHn4byJwQPusYVT6m5JjVnNukL?coins_sort=created_timestamp",
             className: "bg-white rounded-md hover:opacity-90 w-full py-[0.56rem] lg:w-auto justify-center group flex h-[2.125rem] items-center gap-1 px-4 lg:py-2 font-semibold text-[0.9rem] text-black",
             children: (0,
             s.jsx)("span", {
@@ -98,7 +98,7 @@
         let m = "MASTRA_AI_STAR_COUNT"
           , u = [{
             label: "X",
-            href: "x.com"
+            href: "https://x.com/nereid_ai_"
         }]
           , h = e => {
             let {githubStarCount: t, scrollPosition: r} = e
@@ -194,7 +194,7 @@
                             children: (0,
                             s.jsx)("a", {
                                 className: "font-medium rounded-md hover:bg-[rgba(41,41,41,0.50)]  md:text-[0.9rem] transition-colors hover:text-white py-2 px-4 text-text-3",
-                                href: "/Pumpfun",
+                                href: "https://pump.fun/profile/4HGC7MRthiBfDLi7PeqHn4byJwQPusYVT6m5JjVnNukL?coins_sort=created_timestamp",
                                 children: "Pumpfun"
                             })
                         }), u.map(e => (0,
@@ -219,7 +219,7 @@
                                     style: {
                                         background: "linear-gradient(90deg, rgba(255, 255, 255, 0.10) 4.66%, rgba(255, 255, 255, 0.03) 97.46%)"
                                     },
-                                    href: "https://github.com/mastra-ai/mastra",
+                                    href: "https://github.com/intelligentsupply/nereid",
                                     className: "font-medium rounded-md opacity-90 transition-colors hover:opacity-100 flex items-center gap-2 justify-start pl-[7px] pr-2.5 py-2 h-[2.125rem] text-white text-sm",
                                     children: [(0,
                                     s.jsx)(x.J, {
@@ -324,7 +324,7 @@
                                 url: "/about"
                             }, {
                                 text: "Docs",
-                                url: "/docs"
+                                url: "https://pump.fun/profile/4HGC7MRthiBfDLi7PeqHn4byJwQPusYVT6m5JjVnNukL?coins_sort=created_timestamp"
                             }].map(e => {
                                 let t = "github" === e.text.toLowerCase();
                                 return (0,
@@ -345,15 +345,15 @@
                             children: [{
                                 text: "github",
                                 icon: "github",
-                                url: "https://github.com/mastra-ai/mastra"
+                                url: "https://github.com/intelligentsupply/nereid"
                             }, {
                                 text: "discord",
                                 icon: "discord",
-                                url: "https://discord.gg/TpapMTnjyB"
+                                url: "https://x.com/nereid_ai_"
                             }, {
                                 text: "X",
                                 icon: "x",
-                                url: "https://x.com/mastra_ai"
+                                url: "https://x.com/nereid_ai_"
                             }, {
                                 text: "youtube",
                                 icon: "youtube",
